@@ -1,0 +1,5 @@
+﻿  MainCode.cpp
+  ViewManager.cpp
+C:\CS330Content\Projects\3-2_Assignment\Source\ViewManager.cpp(151,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  3-2_Assignment.vcxproj -> C:\CS330Content\Projects\3-2_Assignment\Debug\3-2_Assignment.exe
