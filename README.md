@@ -1,1 +1,6 @@
 Here will be all of the assignments and final project files for SNHU CS-330 in 2025
+
+While working in this class, there are many interesting things that I learned. It is also good to see how programs work inside of themselves and how they process their code. One of the things that I started to do during this class was to isolate these steps for error correction and problem identification. I developed this process by crating notes throughout the coding steps. 
+I did this by creating small outputs to show the different steps that were being triggered, what I was inputting, and what I was expecting to happen. There were created by injecting some cout statements inside of each of the functions. This would allow me to isolate the cause of a failure by isolating the part of the code that was causing me the problems. Even as far as how the text was outputted was important to this process. 
+The process of creating the graphics in this class has helped me when it comes to creating web pages and the different interactions. While the code may not be the same between C++ and html, the concepts of what the code is trying to do is similar enough to help in building, troubleshooting, and refining these skills. 
+This is important for my future profession because my new job has been leaning me more into web development. 
